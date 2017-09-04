@@ -1,7 +1,7 @@
 const TeleBot = require('telebot');
 const fs = require('fs');
 const request = require('request');
-const bot = new TeleBot(token);
+const bot = new TeleBot(447617037:AAGKr7JIjgm4f9BadTOFUxJaqcBD7-ppJjs);
 
 let db = {};
 let rLimit = 10;
